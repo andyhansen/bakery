@@ -3,4 +3,5 @@ What the site needs:
 * Upload page
 * An admin login
 * A products page
-* Product editing panel
+* An updates page
+* Actually take some photos of the bakery

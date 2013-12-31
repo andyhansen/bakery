@@ -47,6 +47,7 @@ nav ul li {
 }
 
 #main {
+  max-width: 1000px;
   min-width: 310px;
   width: 75%;
   min-height: 500px;
@@ -165,3 +166,52 @@ footer a:hover {
 /*.era:nth-of-type(odd) h1 {
   text-align: right;
 }*/
+
+#map-container {
+  /*float: right;*/
+  display: inline-block;
+  width: 50%;
+  min-width: 300px;
+}
+
+#contact-map {
+  width: 100%;
+}
+
+#contact-hours {
+  display: inline-block;
+  width: 40%;
+  min-width: 300px;
+  text-align: center;
+  padding: 5px;
+  vertical-align: middle;
+}
+
+#contact-hours ul {
+  list-style: none;
+  height: 300px;
+}
+
+#contact-hours li {
+  font-size: 25px;
+}
+
+/* Form CSS */
+form {
+  min-width: 280px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+fieldset {
+  padding: 10px;
+}
+
+
+input {
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}

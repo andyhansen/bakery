@@ -1,21 +1,18 @@
 <? include "header.inc.php"; ?>
 <div id="main">
-  <h1>Hold on to your butts</h1>
-
-  <div class="right-image-box">
-    <img src="images/gallery/bakery.jpg" width="300">
-    <p>This would be a picture of the bakery</p>
+  <div id="contact-hours">
+    <ul>
+      <li>Monday - 9am to 5pm</li>
+      <li>Monday - 9am to 5pm</li>
+      <li>Monday - 9am to 5pm</li>
+      <li>Monday - 9am to 5pm</li>
+      <li>Monday - 9am to 5pm</li>
+      <li>Monday - 9am to 5pm</li>
+      <li>Monday - 9am to 5pm</li>
+    </ul>
   </div>
-
-  <p>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a week to climb out. Now, I don't know exactly when we turned on each other, but I know that seven of us survived the slide... and only five made it out. Now we took an oath, that I'm breaking now. We said we'd say it was the snow that killed the other two, but it wasn't. Nature is lethal but it doesn't hold a candle to man. </p>
-
-
-  <p>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a week to climb out. Now, I don't know exactly when we turned on each other, but I know that seven of us survived the slide... and only five made it out. Now we took an oath, that I'm breaking now. We said we'd say it was the snow that killed the other two, but it wasn't. Nature is lethal but it doesn't hold a candle to man. </p>
-
-  <p>Now that we know who you are, I know who I am. I'm not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain's going to be? He's the exact opposite of the hero. And most times they're friends, like you and me! I should've known way back when... You know why, David? Because of the kids. They called me Mr Glass. </p>
-
-  <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. </p>
-
-  <p>Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that's what you see at a toy store. And you must think you're in a toy store, because you're here shopping for an infant named Jeb. </p>
+  <div id="map-container">
+    <iframe id="contact-map" width="300" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.nz/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Danish+Delights,+Hillside+Road,+South+Dunedin,+Otago&amp;aq=0&amp;oq=danish+delights&amp;sll=-40.799894,175.310128&amp;sspn=58.8254,130.253906&amp;ie=UTF8&amp;hq=&amp;hnear=&amp;ll=-45.898376,170.485656&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.nz/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Danish+Delights,+Hillside+Road,+South+Dunedin,+Otago&amp;aq=0&amp;oq=danish+delights&amp;sll=-40.799894,175.310128&amp;sspn=58.8254,130.253906&amp;ie=UTF8&amp;hq=&amp;hnear=&amp;ll=-45.898376,170.485656&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+  </div>
 </div>
 <? include "footer.inc.php"; ?>
